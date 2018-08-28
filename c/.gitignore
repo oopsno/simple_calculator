@@ -1,0 +1,6 @@
+challenge-1
+challenge-2-settler
+challenge-2-deity
+*.o
+*.gch
+build/
